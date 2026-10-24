@@ -1,1 +1,10 @@
 Id; Producte; Data inici; Data fi; Descripció; Import; Comissió; Divisa; Estat; Saldo
+RE00001;Actual;5/1/2026 20:28;5/1/2026 20:28;Recarga por transferencia bancaria;5.00;0.00;EUR;COMPLETADO;20.37
+RE00002;Actual;6/1/2026 12:14;6/1/2026 12:14;Recarga por transferencia bancaria;15.00;0.00;EUR;COMPLETADO;34.82
+RE00003;Actual;7/1/2026 11:01;7/1/2026 11:01;Recarga por transferencia bancaria;10.00;0.00;EUR;COMPLETADO;36.40
+RE00004;Actual;10/12/2026 18:48;10/12/2026 18:48;Recarga por transferencia bancaria;10.00;0.00;EUR;COMPLETADO;13.01
+RE00005;Actual;11/12/2026 15:40;11/12/2026 15:40;Recarga con Bizum;10.00;0.00;EUR;COMPLETADO;17.87
+RE00006;Actual;11/12/2026 21:31;11/12/2026 21:31;Recarga con tarjeta *4821;10.00;0.00;EUR;COMPLETADO;19.62
+RE00007;Actual;15/12/2026 13:55;15/12/2026 13:55;Recarga con tarjeta *4821;10.00;0.00;EUR;COMPLETADO;14.14
+RE00008;Actual;16/12/2026 20:24;16/12/2026 20:24;Recarga con Bizum;10.00;0.00;EUR;COMPLETADO;16.47
+RE00009;Actual;17/12/2026 10:10;17/12/2026 10:10;Recarga en efectivo;10.00;0.00;EUR;COMPLETADO;16.72
